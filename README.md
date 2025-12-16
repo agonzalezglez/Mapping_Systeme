@@ -23,3 +23,11 @@ In order to download the matplotlib package used in our program, you must enter 
 pip install matplotlib
 ```
 ## How to use the script?
+To launch the script, enter the following line of code in your terminal:
+```bash
+./project_sam.py
+```
+A message asking you to enter the path of your sam file will show up on teh terminal ('Enter the path to your SAM file:').
+
+## Perpectives
+
