@@ -30,4 +30,4 @@ To launch the script, enter the following line of code in your terminal:
 A message asking you to enter the path of your sam file will show up on teh terminal ('Enter the path to your SAM file:').
 
 ## Perpectives
-
+To further improve our program, we plan to optimize the chromosome coverage analysis, and add a histogram to represent this coverage, for better a visualization of the sam file data.  
